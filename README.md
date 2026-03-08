@@ -1,4 +1,4 @@
-## Coming soon!
+## Content design, UX writing, systems and information architecture, and model behavior design. Experience at Block, Autodesk, PlanGrid, and Elevate.
 
 <!--
 **p-zogas/p-zogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
